@@ -1,0 +1,45 @@
+#header {
+background-color:rgba(173, 20, 20, 0.836);
+color: black;
+padding: 13px;
+text-align: center;
+margin: 0px;
+font-family: Georgia, 'Times New Roman';
+}
+ 
+#studentinfo {
+background-color: rgba(53, 9, 247, 0.753);
+color: black;
+font-size: 110%;
+padding: 5px;
+margin: 0px;
+text-align: left;
+font-family: Georgia, 'Times New Roman';
+}
+ 
+#studentGrades {
+background-color: rgba(173, 20, 20, 0.836);
+margin: 0px;
+width: 100%;
+font-family: Georgia, 'Times New Roman';
+}
+ 
+#currentgrade {
+background-color: rgba(53, 9, 247, 0.753);
+color: red;
+font-size: 110%;
+margin: 0px;
+padding: 15px;
+font-family: Georgia, 'Times New Roman';
+}
+ 
+#currentgrade label {
+font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
+#currentgrade span {
+font-weight: bold;
+font-style: inherit;
+}
+
